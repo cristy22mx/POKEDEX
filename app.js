@@ -18,7 +18,7 @@ fetch('https://api.pokemontcg.io/v1/cards')
         output +=    
         `<div class="card" style="width: 30rem;">
         <div class="card-block">
-        <img class="card-img-top" src="${imageUrlHiRes}">
+        <img class="card-img-top" src="${images}">
         <h4 class="card-title">Personaje: ${name}</h4>
         </div>
         </div>`
