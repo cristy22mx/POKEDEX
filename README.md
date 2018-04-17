@@ -11,5 +11,6 @@
 
 El usuario podrá conocer los distintos tipos de Pokemones con nombre e imagen.
 
-![POKEDEX](img/vista.jpg) 
+![image](https://user-images.githubusercontent.com/29492900/38887627-fc86fc4c-423e-11e8-8dfd-33df718aeb60.png)
+
 
